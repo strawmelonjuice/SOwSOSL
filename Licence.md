@@ -1,7 +1,8 @@
 # SOwSOSL (Strawmelonjuice Online Web Software Open Source Licence) 1.0
 
-[author]
-[domain]
+> [author]
+>
+> <[domain]>
 
 1. Definitions:
     - "License" this electronical or otherwise specific license file.
