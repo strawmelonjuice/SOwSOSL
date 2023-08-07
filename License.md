@@ -1,4 +1,4 @@
-# SOWSOSL (Strawmelonjuice Online Web Software Open Source Licence) 1.0
+# SOwSOSL (Strawmelonjuice Online Web Software Open Source Licence) 1.0
 
 [author]
 [domain]
